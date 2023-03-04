@@ -1,0 +1,41 @@
+
+.image{
+    box-shadow: 0px 2px 5px lightgray;
+    width: 300px;
+    padding-top: 5px;
+   
+    
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: #565959;
+    padding: 20px 20px;
+  }
+
+ 
+
+
+.project{
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid #121212;
+    background: #edede9;
+
+}
+
+
+.topic{
+    padding-left: 20px;
+}
+
+img{
+    width: 150px;
+}
+
+.paragraph{
+    
+        white-space: pre-line;
+      
+}
